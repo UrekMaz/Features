@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Coh-Metrix binary folder
+CohMetrixCore/
+
+# Outputs
+output/
+cohmetrix_output/
+
+# Temp files
+temp.txt
+
+# Data
+*.csv
+*.xlsx
+
+# Models
+*.pt
+*.bin
+*.model
+*.ckpt
